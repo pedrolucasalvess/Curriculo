@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    color: grey;
+    background-color: white;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+h1, h2, h3 {
+    color: grey;
+}
+h1 {
+    background: grey;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    margin: 0;
+}
+.profile-img {
+    float: right;
+    height: 300px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+h2 {
+    border-bottom: 2px solid grey;
+    padding-bottom: 10px;
+}
+p {
+    margin: 0 0 15px;
+}
+.section {
+    background: white;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.section p {
+    margin: 5px 0;
+}
+.section h3 {
+    margin-top: 0;
+}
